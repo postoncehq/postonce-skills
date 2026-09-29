@@ -1,0 +1,981 @@
+[
+ {
+  "rank": 1,
+  "name": "Tier list ranking",
+  "structure": "Place items into S/A/B/C/D tiers one at a time with a quick justification.",
+  "hook": "\"[Topic] tier list\" with the empty grid on screen (green screen or template).",
+  "middle": "Drag each item into a tier with one sentence of reasoning. The controversial placements drive comments.",
+  "ending": "Full tier grid shown; \"what would you move?\"",
+  "length": "15–60s",
+  "effort": "needs editing",
+  "works_on_every_platform": true,
+  "adapt": "The final grid works as a standalone image on X/LinkedIn (\"AI tools tier list 2026\"). @danvmartell: 8.9M on TikTok.",
+  "good_for": [
+   "AI tools/software",
+   "food",
+   "games",
+   "business advice",
+   "products",
+   "any category with debate"
+  ],
+  "example": "https://www.youtube.com/shorts/GMEqjWXwJH0"
+ },
+ {
+  "rank": 2,
+  "name": "\"Things I wish I knew\" list",
+  "structure": "The creator lists 3 lessons they learned the hard way in a field.",
+  "hook": "\"3 things I wish I knew before [starting X]\".",
+  "middle": "Numbered points (First / Second / Finally), each with a short reason.",
+  "ending": "Encouraging closer (\"be consistent, trust me\").",
+  "length": "30–90s",
+  "effort": "phone-only",
+  "works_on_every_platform": true,
+  "adapt": "The same list converts directly into a carousel or a LinkedIn text post. It works as a TikTok photo carousel too (@elle_kvl 11.8M).",
+  "good_for": [
+   "fitness",
+   "parenting",
+   "careers",
+   "creators",
+   "hobbies",
+   "college"
+  ],
+  "example": "https://www.youtube.com/shorts/yBjYvEmuSyw"
+ },
+ {
+  "rank": 3,
+  "name": "Price ladder / cheap vs expensive test",
+  "structure": "Test the same item at rising price points ($1 → $1,000) side by side and crown a winner.",
+  "hook": "Show both items on screen in frame 1 with price labels: \"$1 knife vs $1,000 knife\".",
+  "middle": "Same test on each (cut, taste, drop). Cut hard between tiers; price tag stays on screen.",
+  "ending": "Verdict, ideally a twist (cheap one wins, or it's a tie). Ask \"what should we test next?\"",
+  "length": "20–70s",
+  "effort": "needs editing",
+  "works_on_every_platform": true,
+  "adapt": "Text-free visual test, so it travels as-is. For LinkedIn/X, cut it into a two-image comparison post (\"$9/mo tool vs $299/mo tool\") and put the verdict in the text.",
+  "good_for": [
+   "food",
+   "cooking",
+   "tools/DIY",
+   "tech",
+   "beauty",
+   "pets",
+   "gaming"
+  ],
+  "example": "https://www.youtube.com/shorts/ZVt9ZJfWV1c"
+ },
+ {
+  "rank": 4,
+  "name": "POV skit",
+  "structure": "First-person role-play of a relatable situation, 'POV: you…'.",
+  "hook": "\"POV: …\" text overlay over the first line of dialogue.",
+  "middle": "One scene, 1–3 characters (often the same creator), escalating.",
+  "ending": "Punchline or relatable twist.",
+  "length": "10–90s",
+  "effort": "needs editing",
+  "works_on_every_platform": true,
+  "adapt": "Works on every video app. LinkedIn only takes office or industry POVs ('POV: the client asks for one more revision').",
+  "good_for": [
+   "comedy",
+   "school",
+   "workplace",
+   "parenting",
+   "any niche with shared pain"
+  ],
+  "example": "https://www.youtube.com/shorts/VrvYRmiMtrY"
+ },
+ {
+  "rank": 5,
+  "name": "Street interview (one question to strangers)",
+  "structure": "Stop strangers with one repeatable question and cut the best answers together.",
+  "hook": "The question as text plus the first surprising answer within 2s.",
+  "middle": "Fast montage of answers, or one deep exchange.",
+  "ending": "Wildest answer last, or a wholesome payoff.",
+  "length": "30–100s",
+  "effort": "needs other people",
+  "works_on_every_platform": true,
+  "adapt": "Subtitles have to be burned in. Travels unchanged across the video apps; LinkedIn likes the 'what do you do and how much do you make' version.",
+  "good_for": [
+   "finance ('what do you do for a living')",
+   "dating",
+   "education/trivia",
+   "travel",
+   "health"
+  ],
+  "example": "https://www.youtube.com/shorts/4FnJMObDw6k"
+ },
+ {
+  "rank": 6,
+  "name": "Rating / blind ranking / taste test",
+  "structure": "Try items one by one, score each out of 10 or rank blind before seeing the next.",
+  "hook": "\"Rating every X\" or \"Blind ranking X\" plus the lineup on screen.",
+  "middle": "One item per beat with an honest reaction; a running scoreboard on screen.",
+  "ending": "Final ranking card, and a hot take that invites disagreement.",
+  "length": "25–180s",
+  "effort": "needs editing",
+  "works_on_every_platform": true,
+  "adapt": "Long TikToks (3–9 min) need a sub-60s cut for Shorts/Reels. Post the final ranking card as a standalone image on X/LinkedIn.",
+  "good_for": [
+   "food",
+   "snacks",
+   "gaming",
+   "pets",
+   "products",
+   "software"
+  ],
+  "example": "https://www.youtube.com/shorts/IjCJ3P7SL9M"
+ },
+ {
+  "rank": 7,
+  "name": "Unboxing / first impressions",
+  "structure": "Open a package on camera with the reveal as the payoff.",
+  "hook": "The box and the promise (\"world's biggest mystery bag\").",
+  "middle": "Slow reveal of each item, ASMR sound.",
+  "ending": "The best item and a reaction.",
+  "length": "30–90s",
+  "effort": "phone-only",
+  "works_on_every_platform": true,
+  "adapt": "Travels as-is.",
+  "good_for": [
+   "toys/collectibles",
+   "tech",
+   "beauty",
+   "subscription boxes"
+  ],
+  "example": "https://www.youtube.com/shorts/KiY68C45EGw"
+ },
+ {
+  "rank": 8,
+  "name": "Types of people",
+  "structure": "Act out 4–8 archetypes of people in one setting.",
+  "hook": "\"Types of people at the gym / on planes\" plus the first type in 1s.",
+  "middle": "One labeled archetype per beat (text label on each).",
+  "ending": "The most relatable or absurd type last; \"which one are you?\"",
+  "length": "8–90s",
+  "effort": "needs editing",
+  "works_on_every_platform": true,
+  "adapt": "Also works as a 'which one are you' carousel (Canva's archetype carousel: 10.2K likes, 233 comments).",
+  "good_for": [
+   "comedy",
+   "school",
+   "fitness",
+   "travel",
+   "workplace",
+   "creators"
+  ],
+  "example": "https://www.youtube.com/shorts/zpL59ry_Ur0"
+ },
+ {
+  "rank": 9,
+  "name": "Overhead quick recipe",
+  "structure": "Top-down, fast-cut recipe from raw ingredients to the final bite.",
+  "hook": "The final dish or the 'money shot' first, plus the name (\"one pan breakfast sandwich\").",
+  "middle": "Each step 1–3s, ingredients as text overlay.",
+  "ending": "Cut, cheese pull, or first bite.",
+  "length": "15–60s",
+  "effort": "needs editing",
+  "works_on_every_platform": true,
+  "adapt": "Put the full recipe in the caption on IG/TikTok and in a pinned comment on Shorts.",
+  "good_for": [
+   "food",
+   "fitness nutrition",
+   "parenting"
+  ],
+  "example": "https://www.youtube.com/shorts/vlpvNj4rO1k"
+ },
+ {
+  "rank": 10,
+  "name": "X explained in 60 seconds",
+  "structure": "Compress a complex topic into one minute with a visual aid.",
+  "hook": "\"[Topic] explained in 60 seconds\" or the core question.",
+  "middle": "3–5 beats building understanding: whiteboard, b-roll, or a clip from an expert.",
+  "ending": "A one-line takeaway.",
+  "length": "45–80s",
+  "effort": "needs editing",
+  "works_on_every_platform": true,
+  "adapt": "Keep it under 60s so it stays eligible everywhere. The LinkedIn version adds a text summary.",
+  "good_for": [
+   "science",
+   "news",
+   "finance",
+   "tech/engineering",
+   "health"
+  ],
+  "example": "https://www.youtube.com/shorts/qcCWjXLSyLo"
+ },
+ {
+  "rank": 11,
+  "name": "Wrong answers only (comment-bait game)",
+  "structure": "Ask a question where everyone deliberately answers wrong, for laughs and comments.",
+  "hook": "\"Wrong answers only\" plus the question.",
+  "middle": "Rapid wrong answers from a group.",
+  "ending": "The most absurd answer last.",
+  "length": "45–120s",
+  "effort": "needs other people",
+  "works_on_every_platform": true,
+  "adapt": "The brand version is a single image plus 'wrong answers only' on X/IG; comments do the work.",
+  "good_for": [
+   "comedy",
+   "friend groups",
+   "classrooms",
+   "brand social accounts"
+  ],
+  "example": "https://www.youtube.com/shorts/3Qyi8HFC38w"
+ },
+ {
+  "rank": 12,
+  "name": "Before/after transformation (then vs now, 1 day vs 1 year)",
+  "structure": "Show the start state, then the end state after time or effort.",
+  "hook": "The 'before' with a date or label, and the promise of the 'after'.",
+  "middle": "Transition (snap, clap, or wipe) or a fast timelapse of progress.",
+  "ending": "The 'after' held long enough to replay.",
+  "length": "5–60s",
+  "effort": "phone-only",
+  "works_on_every_platform": true,
+  "adapt": "As a carousel it's 2 slides (before/after photos). On LinkedIn/X it's a 'then vs now' chart or dashboard screenshot.",
+  "good_for": [
+   "fitness",
+   "home/renovation",
+   "beauty",
+   "cleaning",
+   "design",
+   "business growth (charts)"
+  ],
+  "example": "https://www.youtube.com/shorts/LnTFc1Ypjxs"
+ },
+ {
+  "rank": 13,
+  "name": "Guess the price (game with a stake)",
+  "structure": "Host asks someone to guess a price; if they're close they win it.",
+  "hook": "\"Guess the price and it's yours\" plus the item on camera.",
+  "middle": "The guess, then the reveal. Tension from the stake.",
+  "ending": "Win or lose reaction, then a hand-off to the next item or person.",
+  "length": "30–180s",
+  "effort": "needs other people",
+  "works_on_every_platform": true,
+  "adapt": "Long TikTok versions (2–3 min) should be cut under 60s for Shorts, with an earlier reveal.",
+  "good_for": [
+   "retail",
+   "luxury",
+   "cars",
+   "food",
+   "couples",
+   "street content"
+  ],
+  "example": "https://www.youtube.com/shorts/Vuln6aLGB9o"
+ },
+ {
+  "rank": 14,
+  "name": "Rich vs poor / class-contrast skit",
+  "structure": "The same situation acted out twice, 'rich' vs 'poor' (or broke vs wealthy habits).",
+  "hook": "Split label \"RICH vs POOR\" plus the situation.",
+  "middle": "Alternate cuts between the two versions and escalate the contrast.",
+  "ending": "Punchline or reversal, e.g. the 'poor' one is smarter.",
+  "length": "20–60s",
+  "effort": "needs editing",
+  "works_on_every_platform": true,
+  "adapt": "The finance/habits version (\"rich habits vs poor habits\") also works as a LinkedIn/IG carousel.",
+  "good_for": [
+   "comedy",
+   "food",
+   "personal finance",
+   "parenting"
+  ],
+  "example": "https://www.youtube.com/shorts/aI56cQP8t9E"
+ },
+ {
+  "rank": 15,
+  "name": "Satisfying process / how it's made",
+  "structure": "Uninterrupted footage of a process from raw input to finished result, with no talking.",
+  "hook": "Frame 1 is already mid-action (press coming down, blade touching).",
+  "middle": "Continuous steps, ASMR sound, few or no cuts.",
+  "ending": "The finished object, or a loop back to the start so it replays.",
+  "length": "8–60s",
+  "effort": "phone-only",
+  "works_on_every_platform": true,
+  "adapt": "No language, so it goes everywhere untouched. On LinkedIn it works as a factory or 'how our product is made' clip with a 1-line caption.",
+  "good_for": [
+   "manufacturing",
+   "food",
+   "crafts",
+   "cleaning",
+   "trades",
+   "small business"
+  ],
+  "example": "https://www.youtube.com/shorts/GPv9699gmHc"
+ },
+ {
+  "rank": 16,
+  "name": "Life hack / \"you've been doing it wrong\"",
+  "structure": "Show the common way, call it wrong, then show a better trick.",
+  "hook": "\"You've been doing X wrong your whole life\" plus the wrong way on screen.",
+  "middle": "The trick, shown step by step in close-up.",
+  "ending": "Result shot, often with a 'save this' prompt.",
+  "length": "10–60s",
+  "effort": "phone-only",
+  "works_on_every_platform": true,
+  "adapt": "Works on every video platform. On X/LinkedIn post it as a screen-recording GIF with 'most people do X, do Y instead'.",
+  "good_for": [
+   "home",
+   "cooking",
+   "cleaning",
+   "tech tips",
+   "software",
+   "productivity"
+  ],
+  "example": "https://www.youtube.com/shorts/0RX4V4M-f1U"
+ },
+ {
+  "rank": 17,
+  "name": "Unpopular opinion / hot take",
+  "structure": "State a contrarian opinion bluntly and let the comments argue.",
+  "hook": "\"Unpopular opinion:\" plus the take in 1 line.",
+  "middle": "Short defense (or none; text-only versions work).",
+  "ending": "\"Agree or disagree?\"",
+  "length": "5–60s",
+  "effort": "phone-only",
+  "works_on_every_platform": true,
+  "adapt": "One of the strongest LinkedIn/X text formats. The same line works as a text post.",
+  "good_for": [
+   "travel",
+   "food",
+   "careers",
+   "marketing",
+   "any niche"
+  ],
+  "example": "https://www.youtube.com/shorts/zdBu0SpdZxc"
+ },
+ {
+  "rank": 18,
+  "name": "Expectation vs reality / Instagram vs reality",
+  "structure": "The polished version first, then the messy truth.",
+  "hook": "\"Expectation\" or \"Instagram\" label over the glossy shot.",
+  "middle": "Hard cut to \"Reality\". Repeat 2–5 pairs.",
+  "ending": "Funniest or most honest pair last.",
+  "length": "7–30s",
+  "effort": "phone-only",
+  "works_on_every_platform": true,
+  "adapt": "As a carousel it becomes a 2-slide before/after. LinkedIn: 'what the job posting said vs the actual job'.",
+  "good_for": [
+   "travel",
+   "fitness",
+   "parenting",
+   "creator life",
+   "food",
+   "hotels"
+  ],
+  "example": "https://www.youtube.com/shorts/4zEHL3QtO4U"
+ },
+ {
+  "rank": 19,
+  "name": "Would you rather / this or that",
+  "structure": "Two options per screen; the viewer picks before the timer or reveal.",
+  "hook": "The first choice pair on screen within 1s.",
+  "middle": "10–20 rapid pairs with a timer and vote percentages.",
+  "ending": "The hardest pair last; \"comment your score\".",
+  "length": "30–60s",
+  "effort": "needs editing",
+  "works_on_every_platform": true,
+  "adapt": "Works as an IG carousel poll (one pair per slide) and as X polls.",
+  "good_for": [
+   "faceless entertainment",
+   "food",
+   "kids",
+   "couples",
+   "any niche (tool A vs B)"
+  ],
+  "example": "https://www.youtube.com/shorts/OR2ccBbEWFU"
+ },
+ {
+  "rank": 20,
+  "name": "Day in the life (incl. what I eat in a day)",
+  "structure": "Timestamped montage of one day in a specific role or life.",
+  "hook": "\"Day in the life of a [specific role]\" plus a time stamp (e.g. 4:00am).",
+  "middle": "Clips with time labels and voiceover or text commentary.",
+  "ending": "Wind-down shot, reflection line, or earnings/result.",
+  "length": "30–120s",
+  "effort": "phone-only",
+  "works_on_every_platform": true,
+  "adapt": "Works on every video app. For LinkedIn, frame it around the job ('day in the life of a solo SaaS founder').",
+  "good_for": [
+   "careers/jobs",
+   "parenting",
+   "students",
+   "fitness/nutrition",
+   "founders",
+   "travel"
+  ],
+  "example": "https://www.youtube.com/shorts/W2wMBfvEznU"
+ },
+ {
+  "rank": 21,
+  "name": "Wait for it / delayed payoff",
+  "structure": "Build tension with an on-screen promise of a payoff, then deliver it in the last seconds.",
+  "hook": "Text overlay: \"wait for it…\" or \"watch till the end\" over an ordinary-looking setup.",
+  "middle": "Slow build with nothing given away.",
+  "ending": "Twist or reveal in the final 1–3s. Short enough that people replay it.",
+  "length": "6–20s",
+  "effort": "phone-only",
+  "works_on_every_platform": true,
+  "adapt": "Keep the loop tight. Shorts gets the most out of it because it counts replays.",
+  "good_for": [
+   "comedy",
+   "pets",
+   "sports",
+   "food",
+   "pranks"
+  ],
+  "example": "https://www.youtube.com/shorts/WLCAMRALdYA"
+ },
+ {
+  "rank": 22,
+  "name": "Captioned podcast / interview clip",
+  "structure": "The strongest 30–90s from a long conversation, reframed vertically with big captions.",
+  "hook": "The most controversial or funny line within 2s, and a title bar.",
+  "middle": "Uncut exchange with speaker-tracked framing.",
+  "ending": "Laugh or punchline; cut before the energy drops.",
+  "length": "30–120s",
+  "effort": "needs editing",
+  "works_on_every_platform": true,
+  "adapt": "Most-cross-posted format of all. On LinkedIn, lead with the business quote in text.",
+  "good_for": [
+   "business",
+   "comedy",
+   "fitness",
+   "relationships",
+   "B2B thought leadership"
+  ],
+  "example": "https://www.youtube.com/shorts/E-lJNw73Xvc"
+ },
+ {
+  "rank": 23,
+  "name": "What $X gets you in [place]",
+  "structure": "Show exactly what a fixed budget buys in a specific place.",
+  "hook": "\"What $100 gets you at [Walmart / NYC / the Apple Store]\".",
+  "middle": "Items added with a running total.",
+  "ending": "Final haul and verdict.",
+  "length": "30–210s",
+  "effort": "phone-only",
+  "works_on_every_platform": true,
+  "adapt": "The running total needs burned-in text. Travels as-is.",
+  "good_for": [
+   "food",
+   "travel",
+   "retail",
+   "real estate",
+   "pricing/SaaS ('what $20/mo gets you')"
+  ],
+  "example": "https://www.youtube.com/shorts/pZhwtcblvLM"
+ },
+ {
+  "rank": 24,
+  "name": "Behind the scenes / how we made it",
+  "structure": "Reveal the setup behind a finished result.",
+  "hook": "The finished result, then \"here's how we made it\".",
+  "middle": "Rig, set, or process footage.",
+  "ending": "Side-by-side of BTS vs final.",
+  "length": "15–80s",
+  "effort": "needs editing",
+  "works_on_every_platform": true,
+  "adapt": "For brands, LinkedIn is strong for BTS of launches or campaigns.",
+  "good_for": [
+   "film/video",
+   "music",
+   "products",
+   "agencies",
+   "food brands"
+  ],
+  "example": "https://www.youtube.com/shorts/db6gAI_vLSE"
+ },
+ {
+  "rank": 25,
+  "name": "\"Things that just make sense\" roundup",
+  "structure": "A quick tour of clever details in a place or setup.",
+  "hook": "\"Things in [Japan / our salon / my house] that just make sense\".",
+  "middle": "One detail per 2–4s clip, with a label or a pointing gesture.",
+  "ending": "The best detail last.",
+  "length": "15–60s",
+  "effort": "phone-only",
+  "works_on_every_platform": true,
+  "adapt": "The business version ('things in our office/app that just make sense') is a light brand post on any platform.",
+  "good_for": [
+   "travel",
+   "home",
+   "small business",
+   "office",
+   "product design"
+  ],
+  "example": "https://www.youtube.com/shorts/p-UUrqoWsbE"
+ },
+ {
+  "rank": 26,
+  "name": "I asked ChatGPT/AI to…",
+  "structure": "Give an AI a prompt on screen and react to the result.",
+  "hook": "The prompt as text (\"ChatGPT, show me an apple\").",
+  "middle": "The AI output (screen recording or skit), escalating.",
+  "ending": "Absurd final output or reaction.",
+  "length": "10–60s",
+  "effort": "phone-only",
+  "works_on_every_platform": true,
+  "adapt": "Screen-recording versions also do well on X and LinkedIn.",
+  "good_for": [
+   "tech",
+   "comedy",
+   "productivity",
+   "any niche + AI twist"
+  ],
+  "example": "https://www.youtube.com/shorts/vy-5CeyOKkQ"
+ },
+ {
+  "rank": 27,
+  "name": "\"Tell me you're X without telling me\"",
+  "structure": "Show one telling detail that identifies a group without naming it.",
+  "hook": "Text: \"Tell me you're [X] without telling me you're [X]\".",
+  "middle": "One visual 'proof' moment.",
+  "ending": "The reveal is the proof itself.",
+  "length": "8–20s",
+  "effort": "phone-only",
+  "works_on_every_platform": true,
+  "adapt": "Mostly 2021–22 examples. Still recognizable, but not rising.",
+  "good_for": [
+   "culture",
+   "professions",
+   "parenting",
+   "regional humor"
+  ],
+  "example": "https://www.youtube.com/shorts/yj-tNiekyU0"
+ },
+ {
+  "rank": 28,
+  "name": "Insider confession (\"things I'd never do as a [job]\")",
+  "structure": "A credentialed professional lists what they personally avoid.",
+  "hook": "\"Things I would NEVER buy as a lawyer\", with the credential in the first line.",
+  "middle": "3–5 items, each with the insider reason.",
+  "ending": "The most surprising item, then 'follow for more'.",
+  "length": "30–90s",
+  "effort": "phone-only",
+  "works_on_every_platform": true,
+  "adapt": "Ideal LinkedIn text post: 'As a [role] for 10 years, 5 things I'd never do'.",
+  "good_for": [
+   "law",
+   "medicine",
+   "finance",
+   "real estate",
+   "parenting",
+   "marketing"
+  ],
+  "example": "https://www.youtube.com/shorts/GZCW7pcXaJg"
+ },
+ {
+  "rank": 29,
+  "name": "Stop doing this / myth vs fact",
+  "structure": "Call out a common behavior as wrong, then show the fix.",
+  "hook": "\"Stop doing this\" with the wrong behavior on screen.",
+  "middle": "Why it's wrong, then the correct method.",
+  "ending": "Before/after result or a 'do this instead' recap.",
+  "length": "15–60s",
+  "effort": "phone-only",
+  "works_on_every_platform": true,
+  "adapt": "LinkedIn/X text: 'Stop doing X. Do Y.' works as a one-liner post.",
+  "good_for": [
+   "hair/beauty",
+   "fitness",
+   "health",
+   "finance",
+   "marketing"
+  ],
+  "example": "https://www.youtube.com/shorts/33tZjf-GprE"
+ },
+ {
+  "rank": 30,
+  "name": "Product finds roundup (N things I bought)",
+  "structure": "Rapid list of products with a demo of each.",
+  "hook": "\"Coolest things I bought on Amazon this month\" plus the first product in use.",
+  "middle": "One product per 3–8s, showing it in use.",
+  "ending": "Best product last; link-in-bio or storefront CTA.",
+  "length": "20–60s",
+  "effort": "needs editing",
+  "works_on_every_platform": true,
+  "adapt": "Travels as-is. IG/TikTok need an affiliate or storefront link; on Shorts put the link in a pinned comment.",
+  "good_for": [
+   "home",
+   "gadgets",
+   "beauty",
+   "creator gear",
+   "software tools"
+  ],
+  "example": "https://www.youtube.com/shorts/KbwEjkrTDTM"
+ },
+ {
+  "rank": 31,
+  "name": "I tried X for 30 days",
+  "structure": "A personal experiment with day markers and a result reveal.",
+  "hook": "\"I tried [creatine / 100 situps] for 30 days\" plus Day 1 footage.",
+  "middle": "Day markers (1, 7, 15, 30) with honest check-ins.",
+  "ending": "Before/after comparison and verdict.",
+  "length": "25–90s",
+  "effort": "needs editing",
+  "works_on_every_platform": true,
+  "adapt": "Series variant (Day 1/30 daily posts) is TikTok-native. The recap version travels everywhere and doubles as a LinkedIn 'I tried X for 30 days, here's what happened'.",
+  "good_for": [
+   "fitness",
+   "habits",
+   "language learning",
+   "apps/tools",
+   "business experiments"
+  ],
+  "example": "https://www.youtube.com/shorts/a7bwFO6lhBU"
+ },
+ {
+  "rank": 32,
+  "name": "Pack an order with me (small business)",
+  "structure": "ASMR packing of a real customer order, addressed to the customer by name.",
+  "hook": "\"Hi [name], this is your order packing video\".",
+  "middle": "Items added one by one, extras, wrapping.",
+  "ending": "Sealed box, thank-you note.",
+  "length": "30s–5min",
+  "effort": "phone-only",
+  "works_on_every_platform": false,
+  "adapt": "TikTok hits run 4–17 min. Trim to 60s for Shorts/Reels; the addressed-to-customer hook still works.",
+  "good_for": [
+   "ecommerce",
+   "handmade",
+   "Etsy/TikTok Shop sellers"
+  ],
+  "example": "https://www.youtube.com/shorts/5r40Rw3_vTw"
+ },
+ {
+  "rank": 33,
+  "name": "\"Things you should never do\" numbered list",
+  "structure": "A numbered list of warnings for a place, time, or situation.",
+  "hook": "\"Never do these things in [China] / at night\".",
+  "middle": "3–5 items, each with a visual and a one-line why.",
+  "ending": "The most surprising item last.",
+  "length": "30–100s",
+  "effort": "needs editing",
+  "works_on_every_platform": true,
+  "adapt": "Faceless versions travel best. Post the list as a carousel on IG/LinkedIn.",
+  "good_for": [
+   "travel",
+   "health",
+   "safety",
+   "finance",
+   "etiquette",
+   "software"
+  ],
+  "example": "https://www.youtube.com/shorts/eCxvNbdojBk"
+ },
+ {
+  "rank": 34,
+  "name": "Red flags / green flags",
+  "structure": "List warning signs (or good signs) in a person, job, or product.",
+  "hook": "\"🚩 red flags in [a partner / a job / a client]\".",
+  "middle": "One flag per beat, often acted out.",
+  "ending": "The most controversial flag; \"many people fall for the last one\".",
+  "length": "10–80s",
+  "effort": "phone-only",
+  "works_on_every_platform": true,
+  "adapt": "The client/job red-flags version works as a LinkedIn text post.",
+  "good_for": [
+   "dating",
+   "workplace",
+   "freelancing/clients",
+   "real estate",
+   "hiring"
+  ],
+  "example": "https://www.youtube.com/shorts/LBZDECGaXzM"
+ },
+ {
+  "rank": 35,
+  "name": "Tweet/text screenshot carousel",
+  "structure": "One tweet-style card per slide, 30–60 words each.",
+  "hook": "The strongest insight as slide 1.",
+  "middle": "More cards in the same template (color tint changes per slide).",
+  "ending": "None needed; the caption asks a question.",
+  "length": "2–10 slides",
+  "effort": "phone-only",
+  "works_on_every_platform": false,
+  "adapt": "Native on X as a text post. On IG/LinkedIn it's a carousel; on TikTok, a photo slideshow with audio.",
+  "good_for": [
+   "psychology",
+   "business",
+   "humor",
+   "news commentary"
+  ],
+  "example": "https://www.instagram.com/p/C1e0XDVOTTQ/"
+ },
+ {
+  "rank": 36,
+  "name": "Learn X in 3 steps",
+  "structure": "Break a hard skill into 3 progressive steps.",
+  "hook": "\"How to [backflip] in only 3 steps\" plus the finished move.",
+  "middle": "Step 1, 2, 3, each with a demo and a text label.",
+  "ending": "The full move, and 'save this'.",
+  "length": "20–60s",
+  "effort": "phone-only",
+  "works_on_every_platform": true,
+  "adapt": "The same steps can go out as a carousel or a LinkedIn how-to.",
+  "good_for": [
+   "sports",
+   "dance",
+   "makeup",
+   "software how-to",
+   "cooking"
+  ],
+  "example": "https://www.youtube.com/shorts/jA3WpoDOp6A"
+ },
+ {
+  "rank": 37,
+  "name": "Mistakes beginners make",
+  "structure": "Show common beginner mistakes, each followed by the fix.",
+  "hook": "\"Top 3 mistakes [violin / crochet / new writers] beginners make\".",
+  "middle": "Mistake shown, then the correct way.",
+  "ending": "The biggest mistake last, or 'which one are you guilty of?'.",
+  "length": "25–90s",
+  "effort": "phone-only",
+  "works_on_every_platform": true,
+  "adapt": "Converts directly to a carousel (marketingharry 'UGLY FONTS KILL POSTS' is the carousel version).",
+  "good_for": [
+   "hobbies",
+   "sports",
+   "skills",
+   "creators",
+   "software onboarding"
+  ],
+  "example": "https://www.youtube.com/shorts/9XPp8SzCr9A"
+ },
+ {
+  "rank": 38,
+  "name": "Faceless top-5 countdown compilation",
+  "structure": "Countdown of clips ranked 5 to 1 with a ranking bar on the side.",
+  "hook": "\"Top 5 most [dangerous sea creatures]\" plus clip #5.",
+  "middle": "Clips 4 to 2 with the rank overlay updating.",
+  "ending": "#1 is the most extreme clip.",
+  "length": "25–70s",
+  "effort": "needs editing",
+  "works_on_every_platform": false,
+  "adapt": "Often uses third-party clips, which carry copyright/unoriginal-content risk on YouTube. Using your own footage travels unchanged.",
+  "good_for": [
+   "nature",
+   "sports",
+   "memes",
+   "perfume/products",
+   "facts"
+  ],
+  "example": "https://www.youtube.com/shorts/p3Biyvbpw1k"
+ },
+ {
+  "rank": 39,
+  "name": "Relatable \"when you…\" meme video",
+  "structure": "Text caption of a universal moment over a reaction clip or performance.",
+  "hook": "\"When you realize…\" caption.",
+  "middle": "A single reaction beat, often lip-sync or trending audio.",
+  "ending": "Loop.",
+  "length": "5–15s",
+  "effort": "phone-only",
+  "works_on_every_platform": false,
+  "adapt": "Relies on trending audio that may be unavailable on other apps. Swap to original audio or royalty-free sound when cross-posting.",
+  "good_for": [
+   "comedy",
+   "any niche with in-jokes (SMM, devs, teachers)"
+  ],
+  "example": "https://www.youtube.com/shorts/AWaVLymLKB4"
+ },
+ {
+  "rank": 40,
+  "name": "Asking 100 people / survey montage",
+  "structure": "Pose one question to a big number of people and show the tally.",
+  "hook": "\"We asked 100 [group] about X\".",
+  "middle": "Rapid answers with a running count.",
+  "ending": "The final tally, or the most unexpected answer.",
+  "length": "30–180s",
+  "effort": "needs other people",
+  "works_on_every_platform": true,
+  "adapt": "The B2B version ('we asked 100 marketers') becomes a data carousel or LinkedIn post with the stat.",
+  "good_for": [
+   "culture",
+   "dating",
+   "pop culture",
+   "education",
+   "B2B (asked 100 founders)"
+  ],
+  "example": "https://www.youtube.com/shorts/jgHg3fSpIvk"
+ },
+ {
+  "rank": 41,
+  "name": "Green screen reaction to a screenshot/post",
+  "structure": "The creator in front of a screenshot (tweet, headline, comment, Reddit post) reads it and reacts or explains.",
+  "hook": "The screenshot fills the background; the creator points at it and reads the key line.",
+  "middle": "Commentary, context, or storytime about it.",
+  "ending": "Opinion, question to the audience, or the next screenshot.",
+  "length": "10–120s",
+  "effort": "phone-only",
+  "works_on_every_platform": true,
+  "adapt": "TikTok's green-screen effect has no IG/YT equivalent. Record it with TikTok or CapCut and export the file; the output travels unchanged.",
+  "good_for": [
+   "news/commentary",
+   "marketing",
+   "finance",
+   "relationships",
+   "books",
+   "creators"
+  ],
+  "example": "https://www.youtube.com/shorts/ONitLOV0Lck"
+ },
+ {
+  "rank": 42,
+  "name": "GRWM storytime (talk while doing a routine)",
+  "structure": "Tell a story or rant while doing makeup, cooking, or cleaning on camera.",
+  "hook": "The story's most shocking line first (\"we almost lost…\").",
+  "middle": "The routine as visual filler, the story as the content.",
+  "ending": "Resolution or 'part 2'.",
+  "length": "60s–10min",
+  "effort": "phone-only",
+  "works_on_every_platform": false,
+  "adapt": "The TikTok hits run 5–10 min. Cut a 60–90s version with the payoff for Reels/Shorts.",
+  "good_for": [
+   "beauty",
+   "lifestyle",
+   "relationships",
+   "work drama",
+   "creators"
+  ],
+  "example": "https://www.youtube.com/shorts/EyZvfJhqGmg"
+ },
+ {
+  "rank": 43,
+  "name": "Things I regret buying (de-influencing)",
+  "structure": "Honest list of purchases that weren't worth it.",
+  "hook": "\"Things I regret buying\" with the first item held up.",
+  "middle": "Item, why it failed, and what to buy instead.",
+  "ending": "The biggest regret or the one they'd buy again.",
+  "length": "30–100s",
+  "effort": "phone-only",
+  "works_on_every_platform": true,
+  "adapt": "SaaS variant: 'tools I stopped paying for'. Works as a LinkedIn text post too.",
+  "good_for": [
+   "beauty",
+   "fashion",
+   "art supplies",
+   "tech",
+   "home",
+   "software"
+  ],
+  "example": "https://www.youtube.com/shorts/AOFLJAezNRA"
+ },
+ {
+  "rank": 44,
+  "name": "How much I make / income breakdown",
+  "structure": "Reveal real earnings for a job or shift, itemized.",
+  "hook": "\"How much I make as a [job]\" or \"how much I made working a double\".",
+  "middle": "Itemized numbers on screen (tips, clients, platform payouts).",
+  "ending": "The total, with an honest take (worth it or not).",
+  "length": "15–150s",
+  "effort": "phone-only",
+  "works_on_every_platform": true,
+  "adapt": "Travels as-is. LinkedIn/X: an income screenshot plus a breakdown text post (a proven X format).",
+  "good_for": [
+   "service jobs",
+   "creators",
+   "freelancers",
+   "trades",
+   "nurses",
+   "founders"
+  ],
+  "example": "https://www.youtube.com/shorts/wCNF10GesBE"
+ },
+ {
+  "rank": 45,
+  "name": "Video reply to a comment",
+  "structure": "A comment sticker on screen, then the creator answers it on video.",
+  "hook": "The comment bubble (\"Replying to @user…\") shown in frame 1.",
+  "middle": "Direct answer, demo, or clapback.",
+  "ending": "Invite the next question.",
+  "length": "10–120s",
+  "effort": "phone-only",
+  "works_on_every_platform": false,
+  "adapt": "The native comment sticker exists on TikTok, YouTube Shorts, and IG. When cross-posting, burn in a screenshot of the comment so it reads on every app.",
+  "good_for": [
+   "any niche with an audience asking questions",
+   "support/FAQ",
+   "coaches"
+  ],
+  "example": "https://www.youtube.com/shorts/ivkiqPUBWNY"
+ },
+ {
+  "rank": 46,
+  "name": "Text/TTS storytime over gameplay or satisfying b-roll",
+  "structure": "A written story (often from Reddit) read by text-to-speech over unrelated looping footage.",
+  "hook": "The first line of the story as a title card (\"My sister asked why her husband came home at 3am…\").",
+  "middle": "TTS narration with word-by-word captions over Minecraft parkour, cake-cutting, or slime.",
+  "ending": "Cliffhanger or 'part 2' to drive follows.",
+  "length": "45s–3min (TikTok long form up to 30min)",
+  "effort": "needs editing",
+  "works_on_every_platform": false,
+  "adapt": "TikTok allows long parts; Shorts caps at 3 min and Reels at 3 min, so split into parts. Commonly flagged as unoriginal on YouTube, so change the story and voice.",
+  "good_for": [
+   "faceless channels",
+   "drama/relationships",
+   "horror",
+   "any niche with stories"
+  ],
+  "example": "https://www.youtube.com/shorts/7LSePnwKuzU"
+ },
+ {
+  "rank": 47,
+  "name": "Numbered list carousel",
+  "structure": "A cover promising N items, then numbered items across slides with continuous numbering.",
+  "hook": "Slide 1: \"25 lessons…\" / \"7 practices that…\" plus a swipe cue.",
+  "middle": "3–4 numbered items per slide or one per slide, same template.",
+  "ending": "Recap slide plus a save/share or comment-keyword CTA.",
+  "length": "5–12 slides",
+  "effort": "phone-only",
+  "works_on_every_platform": false,
+  "adapt": "IG and LinkedIn take the same PDF/image set (LinkedIn wants a PDF document post). TikTok photo mode needs a 9:16 or 3:4 crop. X takes up to 4 images, so split it or post as a thread.",
+  "good_for": [
+   "self-improvement",
+   "business",
+   "creators",
+   "finance",
+   "health"
+  ],
+  "example": "https://www.instagram.com/p/DIGw23XgWkF/"
+ },
+ {
+  "rank": 48,
+  "name": "Notes-app / plain text card",
+  "structure": "A screenshot of the iPhone Notes app (or a plain black card) carrying a confession, list, or question.",
+  "hook": "A familiar Notes UI with a first line that reads like a private thought.",
+  "middle": "List or short rant in plain text.",
+  "ending": "A question that invites confessional comments.",
+  "length": "single image / 5–15s slideshow",
+  "effort": "phone-only",
+  "works_on_every_platform": false,
+  "adapt": "The TikTok version is a 6s slideshow with audio. On IG/X/LinkedIn post the static screenshot (influencersinthewild's question card got 52.7K likes and 1,121 comments).",
+  "good_for": [
+   "relationships",
+   "mental health",
+   "creators",
+   "any niche with confessions"
+  ],
+  "example": "https://www.youtube.com/shorts/uJ1FCItbtE8"
+ },
+ {
+  "rank": 49,
+  "name": "Selfie cover + list slides (TikTok photo mode)",
+  "structure": "Casual selfie with native text as the cover; the following slides are a Notes-app or plain list of tips, apps, or brands.",
+  "hook": "Selfie plus \"I've been posting consistently for 3 months and these are the 4 things I learnt\".",
+  "middle": "1 item per slide (app, brand plus email, tip), often over a photo.",
+  "ending": "The last tip plugs a tool or resource, or 'save this'.",
+  "length": "2–8 slides",
+  "effort": "phone-only",
+  "works_on_every_platform": false,
+  "adapt": "Built for TikTok photo mode with a trending sound. Repost to IG as a carousel (add the music in the IG app). The 'Part N' website series (@lucaswebq, 2.6M plays at part 772) shows how well it serializes.",
+  "good_for": [
+   "creators/UGC",
+   "students",
+   "beauty",
+   "career"
+  ],
+  "example": "https://www.tiktok.com/@emily_reels_growth/photo/7607214071926115614"
+ }
+]

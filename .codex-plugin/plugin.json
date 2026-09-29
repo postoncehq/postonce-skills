@@ -1,0 +1,23 @@
+{
+  "name": "postonce",
+  "version": "0.1.0",
+  "description": "PostOnce Skills MCP server and skills: write one post and publish it natively to LinkedIn, X, Threads, Bluesky, Facebook, Instagram, TikTok, YouTube and Pinterest through each platform's official API, via PostOnce.",
+  "author": {
+    "name": "PostOnce"
+  },
+  "homepage": "https://github.com/postoncehq/postonce-skills",
+  "skills": "./skills/",
+  "mcpServers": "./codex.mcp.json",
+  "interface": {
+    "displayName": "PostOnce",
+    "shortDescription": "Social media skills and publishing for 9 platforms.",
+    "longDescription": "Post-everywhere, content calendar, hook vault and viral formats skills, plus publishing, scheduling and automatic crossposting to 9 platforms. Publishing goes through each platform's official API, via PostOnce.",
+    "developerName": "PostOnce",
+    "category": "Productivity",
+    "capabilities": [
+      "Read",
+      "Write"
+    ],
+    "defaultPrompt": "Turn this blog post into native posts for all my connected accounts and schedule them for tomorrow at 9am."
+  }
+}
