@@ -16,5 +16,6 @@
     "crosspost",
     "mcp"
   ],
+  "icon": "./.claude-plugin/icon.png",
   "privacyPolicyUrl": "https://postonce.to/privacy-policy"
 }
