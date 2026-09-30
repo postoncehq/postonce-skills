@@ -64,6 +64,15 @@ Step-by-step: [Claude Code](https://postonce.to/integrations/claude-code) · [Co
 
 **Any other MCP client:** point it at `https://postonce.to/mcp` (Streamable HTTP) with the header `Authorization: Bearer <your PostOnce API key>`.
 
+## Data and privacy
+
+- The posts, captions and media you ask your agent to publish are sent to PostOnce and on to the platforms you choose. Nothing is published without a request from you.
+- Media files you upload go straight to PostOnce's file storage through a short-lived signed upload link, then publish from there. Uploaded media is publicly reachable so the platforms can fetch it.
+- PostOnce stores your posts, media and connected account names so it can schedule them and show your publishing history. You can disconnect accounts and revoke access at any time in [PostOnce preferences](https://postonce.to/dashboard/preferences).
+- The skills themselves run in your agent and send nothing anywhere else. The hook vault and viral formats data ship inside the plugin.
+
+Full details: [privacy policy](https://postonce.to/privacy-policy) · [terms](https://postonce.to/tos).
+
 ## FAQ
 
 **What is crossposting?**
