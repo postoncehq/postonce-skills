@@ -1,7 +1,7 @@
 {
   "name": "postonce",
   "version": "0.1.0",
-  "description": "PostOnce Skills MCP server and skills: write one post and publish it natively to LinkedIn, X, Threads, Bluesky, Facebook, Instagram, TikTok, YouTube and Pinterest through each platform's official API, via PostOnce.",
+  "description": "Write a native post for every social platform, crosspost it to LinkedIn, X, Threads, Bluesky, Facebook, Instagram, TikTok, YouTube and Pinterest in one request, and schedule content calendars, through each platform's official API.",
   "author": {
     "name": "PostOnce",
     "url": "https://postonce.to"
@@ -17,5 +17,9 @@
     "mcp"
   ],
   "icon": "./.claude-plugin/icon.png",
-  "privacyPolicyUrl": "https://postonce.to/privacy-policy"
+  "displayName": "PostOnce",
+  "privacyPolicyUrl": "https://postonce.to/privacy-policy",
+  "termsOfServiceUrl": "https://postonce.to/tos",
+  "supportUrl": "https://postonce.to/contact",
+  "documentationUrl": "https://postonce.to/integrations/claude-code"
 }
