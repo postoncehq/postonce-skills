@@ -54,12 +54,12 @@ Step-by-step: [Claude](https://postonce.to/integrations/claude) · [ChatGPT](htt
 
 To add the skills in claude.ai or Claude Cowork, download a skill's ZIP from the [latest release](https://github.com/postoncehq/postonce-skills/releases/tag/latest) and upload it under **Customize › Skills**, one skill at a time. Full guide: [Free AI skills](https://docs.postonce.to/help/ai-skills).
 
-**Claude Code, Codex and Cursor:** install the plugin. It adds the MCP connection and the skills together. Claude Code asks you to sign in to PostOnce the first time you use it (or run `/mcp` and pick postonce), so there's no key to copy. In Codex and Cursor, create an API key in [PostOnce preferences](https://postonce.to/dashboard/preferences) and give it to your client as the `POSTONCE_API_KEY` environment variable. Never paste the key into chat.
+**Claude Code, Codex and Cursor:** install the plugin. It adds the MCP connection and the skills together. Create an API key in [PostOnce preferences](https://postonce.to/dashboard/preferences) (API keys need a paid PostOnce plan) and give it to your client as the `POSTONCE_API_KEY` environment variable before you start it. Never paste the key into chat.
 
 ```bash
 # Claude Code
-claude plugin marketplace add postoncehq/plugins
-claude plugin install postonce@postoncehq
+claude plugin marketplace add https://postonce.to/agent-packages/claude-code/marketplace.json
+claude plugin install postonce@postonce
 ```
 
 Step-by-step: [Claude Code](https://postonce.to/integrations/claude-code) · [Codex](https://postonce.to/integrations/codex) · [Cursor](https://postonce.to/integrations/cursor)
