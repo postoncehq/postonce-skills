@@ -1,0 +1,41 @@
+name: Skill ZIPs
+
+# Zips each skill folder and attaches the ZIPs to the "latest" release, so
+# claude.ai and Cowork users can upload one skill at a time from a stable URL:
+# https://github.com/postoncehq/postonce-skills/releases/download/latest/<skill>.zip
+on:
+  push:
+    branches: [main]
+    paths: ["skills/**", ".github/workflows/skill-zips.yml"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  zip:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Zip each skill
+        run: |
+          mkdir -p dist
+          cd skills
+          for dir in */; do
+            name="${dir%/}"
+            zip -qr "../dist/${name}.zip" "$name"
+          done
+          cd ..
+          (cd dist && zip -q ../postonce-skills.zip ./*.zip)
+          mv postonce-skills.zip dist/
+          ls -l dist
+      - name: Publish to the latest release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if gh release view latest >/dev/null 2>&1; then
+            gh release upload latest dist/*.zip --clobber
+          else
+            gh release create latest dist/*.zip --title "Skill ZIPs" \
+              --notes "One ZIP per skill, for uploading to claude.ai or Claude Cowork under Customize › Skills. Rebuilt on every change to skills/."
+          fi
