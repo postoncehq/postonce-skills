@@ -26,9 +26,10 @@ Claude: Used the post-everywhere skill. One idea, a native version per
 | Publish images, carousels and video | `create_upload_url`, upload, then pass the media URLs |
 | Crosspost every future post automatically | `create_workflow`: for example, each new Instagram Reel also goes to TikTok, Shorts and Facebook |
 | Check what went out, per platform | `get_post` returns each destination's status and URL |
+| Find out what's working and why | `get_analytics` returns views, likes, comments, shares, saves and engagement per platform; the `analyze-my-posts` skill finds your winning hooks and formats |
 | Change or cancel a scheduled post | `update_post`, `cancel_post` |
 
-Platforms: LinkedIn (profiles and company pages), X, Threads, Bluesky, Facebook Pages, Instagram (Business or Creator), TikTok, YouTube and Pinterest. Not supported: Stories, reply chains and polls, first comments, analytics, reading comments, and editing posts that are already live.
+Platforms: LinkedIn (profiles and company pages), X, Threads, Bluesky, Facebook Pages, Instagram (Business or Creator), TikTok, YouTube and Pinterest. Not supported: Stories, reply chains and polls, first comments, reading comments, and editing posts that are already live. Analytics covers TikTok, Instagram, YouTube and Facebook.
 
 ## Skills included
 
@@ -37,6 +38,7 @@ Platforms: LinkedIn (profiles and company pages), X, Threads, Bluesky, Facebook 
 | [`post-everywhere`](skills/post-everywhere/SKILL.md) | Turns one idea, draft, link or video into a native post for every connected platform, checked against each platform's limits and media rules, and sends them in one request. |
 | [`content-calendar`](skills/content-calendar/SKILL.md) | Plans 1 to 4 weeks of posts across your platforms from your goals or a source to repurpose, then schedules them. |
 | [`hook-vault`](skills/hook-vault/SKILL.md) | Writes opening lines from 100 hook templates taken from real viral posts on TikTok, Reels, Shorts, LinkedIn and X. |
+| [`analyze-my-posts`](skills/analyze-my-posts/SKILL.md) | Finds which of your posts beat or missed your usual views, then discovers the hooks and formats behind them from your own posts, watching the videos when your agent can. |
 | [`viral-formats`](skills/viral-formats/SKILL.md) | Picks and scripts a video format from 49 formats ranked by how consistently they go viral, each with a real example. |
 | [`postonce`](skills/postonce/SKILL.md) | The publishing workflow: pick accounts, upload media, schedule, set up automatic crossposting, confirm delivery and recover without duplicate posts. |
 
