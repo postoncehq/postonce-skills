@@ -68,6 +68,8 @@ claude plugin install postonce@postonce
 
 Step-by-step: [Claude Code](https://postonce.to/integrations/claude-code) · [Codex](https://postonce.to/integrations/codex) · [Cursor](https://postonce.to/integrations/cursor)
 
+**Cline:** add `https://postonce.to/mcp` as a Streamable HTTP remote server, then click **Authenticate** to sign in with PostOnce. No API key. Details: [llms-install.md](llms-install.md).
+
 **Any other MCP client:** point it at `https://postonce.to/mcp` (Streamable HTTP) with the header `Authorization: Bearer <your PostOnce API key>`.
 
 ## Data and privacy
