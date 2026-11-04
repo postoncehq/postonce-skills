@@ -58,6 +58,8 @@ To add the skills in claude.ai or Claude Cowork, download a skill's ZIP from the
 
 **Claude Code:** install the plugin. It adds the MCP connection and the skills together, and the first time it connects your browser opens to sign in with PostOnce. No API key.
 
+**Grok Build:** install the `postonce` plugin from the xAI plugin marketplace. Like the Claude Code plugin, it adds the MCP connection (`https://postonce.to/mcp`, Streamable HTTP with OAuth) and the skills, and you sign in with PostOnce. No API key.
+
 **Codex and Cursor:** install the plugin, then create an API key in [PostOnce preferences](https://postonce.to/dashboard/preferences) (API keys need a paid PostOnce plan) and give it to your client as the `POSTONCE_API_KEY` environment variable before you start it. Never paste the key into chat.
 
 ```bash

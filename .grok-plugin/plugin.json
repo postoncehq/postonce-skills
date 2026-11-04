@@ -1,0 +1,19 @@
+{
+  "name": "postonce",
+  "version": "0.1.0",
+  "description": "Post one video or image to LinkedIn, X, Threads, Bluesky, Facebook, Instagram, TikTok, YouTube and Pinterest from Grok, with a native caption for each, and schedule content calendars, through each platform's official API.",
+  "author": {
+    "name": "PostOnce",
+    "url": "https://postonce.to"
+  },
+  "homepage": "https://postonce.to/mcp",
+  "repository": "https://github.com/postoncehq/postonce-skills",
+  "license": "MIT",
+  "keywords": [
+    "postonce",
+    "postonce.to",
+    "postonce mcp"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json"
+}
