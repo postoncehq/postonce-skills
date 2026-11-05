@@ -60,7 +60,9 @@ To add the skills in claude.ai or Claude Cowork, download a skill's ZIP from the
 
 **Grok Build:** install the `postonce` plugin from the xAI plugin marketplace. Like the Claude Code plugin, it adds the MCP connection (`https://postonce.to/mcp`, Streamable HTTP with OAuth) and the skills, and you sign in with PostOnce. No API key.
 
-**Codex and Cursor:** install the plugin, then create an API key in [PostOnce preferences](https://postonce.to/dashboard/preferences) (API keys need a paid PostOnce plan) and give it to your client as the `POSTONCE_API_KEY` environment variable before you start it. Never paste the key into chat.
+**Cursor:** install the plugin, then click **Connect** next to `postonce` in Cursor's MCP settings and sign in with PostOnce. No API key.
+
+**Codex:** install the plugin, then run `codex mcp login postonce` and sign in with PostOnce in the browser. No API key.
 
 ```bash
 # Claude Code
@@ -72,7 +74,7 @@ Step-by-step: [Claude Code](https://postonce.to/integrations/claude-code) · [Co
 
 **Cline:** add `https://postonce.to/mcp` as a Streamable HTTP remote server, then click **Authenticate** to sign in with PostOnce. No API key. Details: [llms-install.md](llms-install.md).
 
-**Any other MCP client:** point it at `https://postonce.to/mcp` (Streamable HTTP) with the header `Authorization: Bearer <your PostOnce API key>`.
+**Any other MCP client:** point it at `https://postonce.to/mcp` (Streamable HTTP) and sign in with PostOnce when it asks. Clients without OAuth can send the header `Authorization: Bearer <your PostOnce API key>` instead (API keys are in [PostOnce preferences](https://postonce.to/dashboard/preferences) and need a paid plan).
 
 ## Data and privacy
 
