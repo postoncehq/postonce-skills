@@ -2,7 +2,7 @@
 
 # PostOnce Skills
 
-The official [PostOnce](https://postonce.to) social media skills and MCP server for Claude, ChatGPT, Cursor and Codex. Your AI agent writes a native post for each platform, crossposts it to LinkedIn, X, Threads, Bluesky, Facebook, Instagram, TikTok, YouTube and Pinterest in one request, and plans and schedules weeks of content, all through each platform's official API. There's no scraping, no browser automation and no developer apps to set up.
+The official [PostOnce](https://postonce.to?utm_source=github&utm_campaign=skills) social media skills and MCP server for Claude, ChatGPT, Cursor and Codex. Your AI agent writes a native post for each platform, crossposts it to LinkedIn, X, Threads, Bluesky, Facebook, Instagram, TikTok, YouTube and Pinterest in one request, and plans and schedules weeks of content, all through each platform's official API. There's no scraping, no browser automation and no developer apps to set up.
 
 The skills know each platform's limits and formats, and come with 100 proven hooks and 49 viral video formats, so your agent writes posts that fit before it publishes them.
 
@@ -44,7 +44,7 @@ Platforms: LinkedIn (profiles and company pages), X, Threads, Bluesky, Facebook 
 
 ## Setup (about a minute)
 
-You need a [PostOnce account](https://postonce.to) (free for 7 days, no card) with your social accounts connected.
+You need a [PostOnce account](https://postonce.to?utm_source=github&utm_campaign=skills) (free for 7 days, no card) with your social accounts connected.
 
 **Claude (claude.ai and desktop) and ChatGPT:** add a custom connector with the URL below and sign in with PostOnce. No API key.
 
@@ -52,7 +52,7 @@ You need a [PostOnce account](https://postonce.to) (free for 7 days, no card) wi
 https://postonce.to/mcp
 ```
 
-Step-by-step: [Claude](https://postonce.to/integrations/claude) · [ChatGPT](https://postonce.to/integrations/chatgpt)
+Step-by-step: [Claude](https://postonce.to/integrations/claude?utm_source=github&utm_campaign=skills) · [ChatGPT](https://postonce.to/integrations/chatgpt?utm_source=github&utm_campaign=skills)
 
 To add the skills in claude.ai or Claude Cowork, download a skill's ZIP from the [latest release](https://github.com/postoncehq/postonce-skills/releases/tag/latest) and upload it under **Customize › Skills**, one skill at a time. Full guide: [Free AI skills](https://docs.postonce.to/help/ai-skills).
 
@@ -70,7 +70,7 @@ claude plugin marketplace add https://postonce.to/agent-packages/claude-code/mar
 claude plugin install postonce@postonce
 ```
 
-Step-by-step: [Claude Code](https://postonce.to/integrations/claude-code) · [Codex](https://postonce.to/integrations/codex) · [Cursor](https://postonce.to/integrations/cursor)
+Step-by-step: [Claude Code](https://postonce.to/integrations/claude-code?utm_source=github&utm_campaign=skills) · [Codex](https://postonce.to/integrations/codex?utm_source=github&utm_campaign=skills) · [Cursor](https://postonce.to/integrations/cursor?utm_source=github&utm_campaign=skills)
 
 **Cline:** add `https://postonce.to/mcp` as a Streamable HTTP remote server, then click **Authenticate** to sign in with PostOnce. No API key. Details: [llms-install.md](llms-install.md).
 
@@ -103,7 +103,7 @@ Yes. Every post goes through each platform's official API with the permissions y
 No. PostOnce holds the platform API access; you connect your accounts once.
 
 **Is it free?**
-The skills are free and MIT-licensed. Publishing runs through a PostOnce account, which you can try free for 7 days without entering a card. After that, see [pricing](https://postonce.to/pricing).
+The skills are free and MIT-licensed. Publishing runs through a PostOnce account, which you can try free for 7 days without entering a card. After that, see [pricing](https://postonce.to/pricing?utm_source=github&utm_campaign=skills).
 
 ## Platform plugins
 
