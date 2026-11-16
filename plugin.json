@@ -1,0 +1,29 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "postonce",
+  "version": "0.1.0",
+  "description": "Write a native post for each platform and publish or schedule it to LinkedIn, X, Threads, Bluesky, Facebook, Instagram, TikTok, YouTube and Pinterest through their official APIs.",
+  "author": {
+    "name": "PostOnce",
+    "url": "https://postonce.to"
+  },
+  "homepage": "https://postonce.to",
+  "repository": "https://github.com/postoncehq/postonce-skills",
+  "license": "MIT",
+  "keywords": [
+    "postonce",
+    "social-media",
+    "crosspost",
+    "scheduling",
+    "mcp"
+  ],
+  "extensions": {
+    "com.nousresearch.hermes": {
+      "servers": {
+        "postonce": {
+          "trust": "untrusted"
+        }
+      }
+    }
+  }
+}

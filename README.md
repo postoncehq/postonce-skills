@@ -73,6 +73,8 @@ To add the skills in claude.ai or Claude Cowork, download a skill's ZIP from the
 
 **Grok Build:** install the `postonce` plugin from the xAI plugin marketplace. Like the Claude Code plugin, it adds the MCP connection (`https://postonce.to/mcp`, Streamable HTTP with OAuth) and the skills, and you sign in with PostOnce. No API key.
 
+**Hermes Agent:** run `hermes plugins install postonce` once it is in the Hermes plugin catalog, or add the server yourself with `hermes mcp add postonce --url https://postonce.to/mcp --auth oauth`, sign in with PostOnce in your browser, then start a new Hermes session. The plugin only connects to the PostOnce MCP server; it runs no local code. No API key.
+
 **Cursor:** install the plugin, then click **Connect** next to `postonce` in Cursor's MCP settings and sign in with PostOnce. No API key.
 
 **Codex:** install the plugin, then run `codex mcp login postonce` and sign in with PostOnce in the browser. No API key.
